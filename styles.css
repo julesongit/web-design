@@ -1,5 +1,41 @@
+header{
+    color: red;
+    font-size: 40px;
+    background-color: royalblue;
+}
+
+header {background-color: seagreen;}
+
+
 h1 {
     color: darkorchid;
     font-size: 60px;
+
+}
+article{
+    background-color: salmon;
+    font-size: larger;
+    margin-top: 75px;
+    margin-bottom: 75px;
+
+
+}
+
+.section-one{
+    background-color: teal;
+    font-size: 60px;
+    color: purple;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+#code-para{
+    background-color: skyblue;
+}
+
+.second-article iframe {
+max-width: 400%;
 }
 
