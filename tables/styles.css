@@ -1,0 +1,42 @@
+* {
+    margin: 25;
+    padding: 25;
+  }
+  
+  header {
+    color: lightcoral;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    padding: 20px
+    
+  }
+
+  table.table-main {
+    width: 150%;
+    height: 50%;
+  }
+
+  header.header-main {
+   font: size 80px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin-left: 80px;
+    margin-top: 40px;
+    
+  }
+  
+  th,
+  td {
+    border: 1px solid rgb(92, 51, 224);
+    border-collapse: collapse;
+    padding: 5px;
+    background-color: rgb(230, 180, 173);
+  }
+
+  html{
+    background-color: black;
+  }
+
+  
